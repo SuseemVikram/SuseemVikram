@@ -23,9 +23,7 @@
 * 😄 Pronouns: he/him/his
 
 
-<div align=center>
-<img align="center" width="500" alt="🦑" src=https://metrics.lecoq.io/suseemvikram?template=terminal&tweets=1&isocalendar=1&languages=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&tweets.attachments=false&tweets.limit=2&tweets.user=suseemvikram&config.timezone=Asia%2FCalcutta
-</div>
+
 
 
 <!---
