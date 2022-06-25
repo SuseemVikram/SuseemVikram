@@ -24,7 +24,8 @@
 
 
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8286858680669876"
+     crossorigin="anonymous"></script>
 
 <!---
 SuseemVikram/SuseemVikram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
